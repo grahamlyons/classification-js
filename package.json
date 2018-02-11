@@ -1,0 +1,14 @@
+{
+  "name": "classification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "natural": "^0.5.6",
+    "twit": "^2.2.9"
+  }
+}
