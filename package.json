@@ -9,6 +9,6 @@
   "dependencies": {
     "fs-extra": "^6.0.1",
     "natural": "^0.6.0",
-    "twit": "^2.2.9"
+    "twit": "^2.2.10"
   }
 }
