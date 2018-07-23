@@ -8,7 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^7.0.0",
-    "natural": "^0.6.0",
+    "natural": "^0.6.1",
     "twit": "^2.2.11"
   }
 }
