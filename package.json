@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^7.0.0",
+    "fs-extra": "^8.0.1",
     "natural": "^0.6.0",
     "twit": "^2.2.11"
   }
