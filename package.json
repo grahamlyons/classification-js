@@ -9,6 +9,12 @@
   "dependencies": {
     "fs-extra": "^7.0.0",
     "natural": "^0.6.0",
-    "twit": "^2.2.11"
-  }
+    "twit": "^2.2.11",
+    "snyk": "^1.267.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
